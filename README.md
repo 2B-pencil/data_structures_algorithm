@@ -1,4 +1,4 @@
 
-# data_structure
+# data_structure and algorithm
 
-数据结构篇
+数据结构与算法
